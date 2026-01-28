@@ -16,7 +16,7 @@ The workflow automatically deploys a static `index.html` page whenever changes a
 - GitHub Actions builds and deploys the site to GitHub Pages
 
 ## Live Website
-https://<your-username>.github.io/gh-deployment-workflow/
+https://dannydma.github.io/CI-CD-deployment-workflow/
 
 ## Workflow File
 The deployment logic is defined in:
